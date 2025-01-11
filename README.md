@@ -17,4 +17,5 @@ Welcome to my portfolio, where I showcase my [projects]().
 ### 👋🏻 Connect with Me
 
 - [Linkedin](https://www.linkedin.com/in/muhammad-ashraf-jamaal//)
+- <a href="mailto:ashrafmjamaal@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"></a> 
 
