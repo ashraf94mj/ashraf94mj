@@ -5,7 +5,7 @@ Data Scientist | Software Developer | AI enthusiast
 
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects]().
+Welcome to my portfolio, where I showcase my [projects](https://github.com/ashraf94mj/Portfolio).
 
 ### 🛠️ Tools
 
